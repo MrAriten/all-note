@@ -48,7 +48,7 @@ Kongming20(192.168.1.109)at 08:00:27:53:10:67[ether]on eth0 #kongming20地址
 
 其中，第一项描述的是另一台测试机器Kongming20（注意，其IP 地址、MAC地址都与图1-8描述的一致），第二项描述的是路由器。
 
-![图1-8 测试网络](\llinux服务器\图1-8 测试网络.png)
+![图1-8 测试网络]([\llinux服务器\图1-8 测试网络.png](https://github.com/MrAriten/all-note/blob/main/LINUX%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/llinux%E6%9C%8D%E5%8A%A1%E5%99%A8/%E5%9B%BE1-8%20%E6%B5%8B%E8%AF%95%E7%BD%91%E7%BB%9C.png))
 
 下面两条命令则分别删除和添加一个ARP缓存项：
 
